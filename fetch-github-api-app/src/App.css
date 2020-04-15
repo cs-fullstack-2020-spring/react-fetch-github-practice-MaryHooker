@@ -11,22 +11,26 @@ body{
   text-align: center;
   
   font-family: serif;
-  font-size: 25px;
+  font-size: 28px;
   font-weight: bold;
   
 }
 
-.name{
+/* .name{
   grid-column: 1;
   padding-top: 5%;
   padding-left: 40%;
-}
+} */
 
 .avatar{
   grid-column: 2;
-  padding-right: 40%;
+  /* padding-right: 40%; */
+}
+
+.size{
+  width: 200px;
 }
 
 .breaks{
-  border: 5px solid yellow;
+  border: 5px solid rgb(17, 28, 122);
 }
